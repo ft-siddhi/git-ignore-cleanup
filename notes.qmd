@@ -1,0 +1,10 @@
+---
+title: "tut7"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
+
